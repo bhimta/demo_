@@ -1,0 +1,43 @@
+Person	Conjugation	Example Sentence (English Translation)
+
+ich	will	Ich will einen Kaffee trinken. (I want to drink a coffee.)
+
+du	willst	Du willst ins Kino gehen. (You want to go to the cinema.)
+
+er/sie/es	will	Er will ein Buch lesen. (He wants to read a book.)
+
+wir	wollen	Wir wollen zusammen arbeiten. (We want to work together.)
+
+ihr	wollt	Ihr wollt heute Abend kochen. (You all want to cook tonight.)
+
+sie/Sie	wollen	Sie wollen in den Urlaub fahren. (They/You (formal) want to go on vacation.)
+
+Konnen (can)
+entence Examples for Each Form
+Ich kann (I can):
+
+Ich kann gut kochen. (I can cook well.) ich kann gut kochen.
+Ich kann morgen kommen. (I can come tomorrow.) ich kann morgen kommen 
+
+Du kannst (You (informal) can):
+
+Du kannst das Fenster öffnen. (You can open the window.) du kannst das fenster offnen
+Kannst du mir helfen? (Can you help me?)kannst du mir helfen .
+
+Er/Sie/Es kann (He/She/It can):
+
+Er kann schnell laufen. (He can run fast.) Er kann schnell laufen
+Sie kann sehr gut malen. (She can paint very well.)
+Es kann gefährlich sein. (It can be dangerous.)
+Wir können (We can):
+
+Wir können heute ins Kino gehen. (We can go to the cinema today.)
+Können wir zusammen lernen? (Can we study together?)
+Ihr könnt (You all can):
+
+Ihr könnt die Präsentation vorbereiten. (You all can prepare the presentation.)
+Könnt ihr das Lied singen? (Can you all sing the song?)
+Sie können / Sie können (formal) (They/You (formal) can):
+
+Sie können gut tanzen. (They can dance well.)
+Können Sie das Formular ausfüllen? (Can you (formal) fill out the form?)
